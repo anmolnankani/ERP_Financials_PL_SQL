@@ -9,4 +9,4 @@ Collection of PL/SQL scripts demonstrating finance-related logic: invoice valida
 - `financial_reports.sql` — sample reporting queries
 
 ## How to use
-- These are example scripts for learning and demo. Run them in an Oracle-friendly environment (Oracle XE, Oracle Live SQL, or a compatible DB).
+- These are example scripts for learning and demo. Run them in an Oracle-friendly environment (Oracle SQL Developer, Oracle XE, or a compatible DB).
