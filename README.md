@@ -1,7 +1,4 @@
 # ERP_Financials_PL_SQL
-Sample PL/SQL procedures and scripts for finance workflows.
-
-# ERP_Financials_PL_SQL
 
 Collection of PL/SQL scripts demonstrating finance-related logic: invoice validation, revenue recognition, and reporting queries.
 
